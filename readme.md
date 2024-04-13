@@ -16,10 +16,12 @@ To create a news outlet to let usres get news articles based on their interest a
 | NewsShow | /news/:id | GET | Renders a news article |
 | NewsCategoryShow | /news/:category | GET | Renders multiple news article based on category|
 | NewsDateShow | /news/:date | GET | Renders multiple news article based on date|
-| NewsCreate | /news/create | DELETE | Creates a news article |
+| NewsCreate | /news/create | POST | Creates a news article |
 | NewsDelete | /news/delete/:id | DELETE | Deletes a session |
 | NewsEdit | /news/update/:id | PUT | Updates a news article|
 | NewsFavourites | /news/favourites | GET | Shows all liked news article with option to update articles from the list |
+| NewsFavouritesCreate | /news/favourites/create | POST | Adds a news article  to favourite list|
+| NewsFavouritesEdit | /news/favorites/edit/:id | PUT | Updates tags, title of news article in the favourite list|
 | NewsFavouritesDelete | /news/favorites/delete/:id | DELETE | Deletes articles from the list |
 
 
