@@ -2,7 +2,7 @@
 
 - **App Name:** Personalized News App
 - **Description:** An app to get news based on user preference and interest.
-- **Github URL:**  
+- **Github URL:**  https://github.com/amritadutta25/Personalized_News_app_frontend
 - **Deployed Website:** 
 
 # Problem Being Solved and Target Market
@@ -29,11 +29,13 @@ To create a news outlet to let usres get news articles based on their interest a
 
 
 ## Mockups
-Index page
-![Desktop Design Mockup](./images/index_page.png)
-Show page
-![Desktop Design Mockup](./images/show_page.png)
-Update showpage
-![Desktop Design Mockup](./images/update_page.png)
-Create page
-![Desktop Design Mockup](./images/create_page.png)
+News Index page
+![Desktop Design Mockup](./images/news_index_page.png)
+News Show, Update, Delete page
+![Desktop Design Mockup](./images/news_show_update_delete_page.png)
+News Create page
+![Desktop Design Mockup](./images/news_create_page.png)
+Favourites Index page
+![Desktop Design Mockup](./images/favourites_index_page.png)
+Favourites Show, Update, Delete page
+![Desktop Design Mockup](./images/favourites_show_update_delete_page.png)
