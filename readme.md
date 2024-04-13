@@ -33,11 +33,13 @@ To create a news outlet to let usres get news articles based on their interest a
 ## Mockups
 News Index page
 ![Desktop Design Mockup](./images/news_index_page.png)
-News Show, Update, Delete page
-![Desktop Design Mockup](./images/news_show_update_delete_page.png)
 News Create page
 ![Desktop Design Mockup](./images/news_create_page.png)
+News Show, Update, Delete page
+![Desktop Design Mockup](./images/news_show_update_delete_page.png)
 Favourites Index page
 ![Desktop Design Mockup](./images/favourites_index_page.png)
+Favourites Create page
+![Desktop Design Mockup](./images/favourites_create_page.png)
 Favourites Show, Update, Delete page
 ![Desktop Design Mockup](./images/favourites_show_update_delete_page.png)
